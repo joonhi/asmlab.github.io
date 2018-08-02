@@ -2,123 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Air-Sea Modeling laboratory</title>
-    <link>/</link>
+    <link>https://asmlab.github.io/</link>
     <description>Recent content on Air-Sea Modeling laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Apr 2018 13:39:46 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://asmlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hajoon Song</title>
-      <link>/group/hajoonsong/</link>
+      <link>https://asmlab.github.io/group/hajoonsong/</link>
       <pubDate>Sun, 08 Apr 2018 13:39:46 +0200</pubDate>
       
-      <guid>/group/hajoonsong/</guid>
+      <guid>https://asmlab.github.io/group/hajoonsong/</guid>
       <description>Research Interests  Air-sea interactions Ocean circulation and climate Sea-ice and high latitude regions Air-sea coupled modeling Carbon cycle modeling Data assimilation  Education  Ph.D. (2011) Scripps Institution of Oceanography, University of California, San Diego, USA B.S. (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Research Experiences  2018.3 - : Assistant Professor, Department of Atmospheric Sciences, Yonsei Univ. Seoul, Korea 2018.7 - 2018.8 : Visiting Scholar, MIT, Cambridge, USA 2013-2018.</description>
     </item>
     
     <item>
       <title>Overall</title>
-      <link>/research/overall/</link>
+      <link>https://asmlab.github.io/research/overall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/overall/</guid>
+      <guid>https://asmlab.github.io/research/overall/</guid>
       <description>Southern Ocean The Southern Ocean is unique. Consistent eastward wind results in upwelling of the water from the interior of the ocean, providing a passage for the exchange between the atmosphere and deep ocean. Unlike other major ocean basins, it does not have boundaries so that water circulates all around Antarctica. This wind-driven current is called Antarctic Circumpolar Current (ACC) and flows eastward connecting Atlantic, Pacific and Indian Oceans. The Southern Ocean plays an important role in earth&amp;rsquo;s climate.</description>
     </item>
     
     <item>
       <title>Southern Ocean</title>
-      <link>/research/southernocean/</link>
+      <link>https://asmlab.github.io/research/southernocean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/southernocean/</guid>
+      <guid>https://asmlab.github.io/research/southernocean/</guid>
       <description>Southern Ocean The Southern Ocean is unique. Consistent eastward wind results in upwelling of the water from the interior of the ocean, providing a passage for the exchange between the atmosphere and deep ocean. Unlike other major ocean basins, it does not have boundaries so that water circulates all around Antarctica. This wind-driven current is called Antarctic Circumpolar Current (ACC) and flows eastward connecting Atlantic, Pacific and Indian Oceans. The Southern Ocean plays an important role in earth&amp;rsquo;s climate.</description>
     </item>
     
     <item>
       <title>Ajin Cho</title>
-      <link>/group/ajincho/</link>
+      <link>https://asmlab.github.io/group/ajincho/</link>
       <pubDate>Sun, 08 Apr 2018 13:39:46 +0200</pubDate>
       
-      <guid>/group/ajincho/</guid>
+      <guid>https://asmlab.github.io/group/ajincho/</guid>
       <description> Education  B.S. (expected in 2019) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  </description>
     </item>
     
     <item>
       <title>Sanghyun Kim</title>
-      <link>/group/sanghyunkim/</link>
+      <link>https://asmlab.github.io/group/sanghyunkim/</link>
       <pubDate>Sun, 08 Apr 2018 13:39:46 +0200</pubDate>
       
-      <guid>/group/sanghyunkim/</guid>
+      <guid>https://asmlab.github.io/group/sanghyunkim/</guid>
       <description> Education  B.S. (expected in 2020) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  2014 : Awarded Honors (2014-1), School Scholarship (2014-2) 2015 : Awarded Honors (2015-1), Chungsoo Scholarship 2018 : Chungsoo Scholarship  </description>
     </item>
     
     <item>
       <title>State estimation</title>
-      <link>/research/dataassimilation/</link>
+      <link>https://asmlab.github.io/research/dataassimilation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/dataassimilation/</guid>
+      <guid>https://asmlab.github.io/research/dataassimilation/</guid>
       <description>California Current System The California Current System is located at the east of the north Pacific. Equatorward upwelling favorable wind draws nutrient-rich water from the interior to the surface making ocean very productive. In fact, approximately 35% of wild-caught fish come from here (Kudela et al., 2009). I investigated the interaction between wind, upwelling and marine ecosystem using ocean circulation model.
 Upwelling source waters Along the California coast, equatorward wind transports water to offshore, creating divergence and upwelling at the coast.</description>
     </item>
     
     <item>
       <title>Jiwoo Choi</title>
-      <link>/group/jiwoochoi/</link>
+      <link>https://asmlab.github.io/group/jiwoochoi/</link>
       <pubDate>Sun, 08 Apr 2018 13:39:46 +0200</pubDate>
       
-      <guid>/group/jiwoochoi/</guid>
+      <guid>https://asmlab.github.io/group/jiwoochoi/</guid>
       <description> Education  B.S. (expected in 2021) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  2017 : Awarded High Honors (2017-1) 2018 : Awarded Honors (2017-2) 2018 : School Scholarship  </description>
     </item>
     
     <item>
       <title>Air-sea interactions</title>
-      <link>/research/airseacouple/</link>
+      <link>https://asmlab.github.io/research/airseacouple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/airseacouple/</guid>
+      <guid>https://asmlab.github.io/research/airseacouple/</guid>
       <description>Southern Ocean The Southern Ocean is unique. Consistent eastward wind results in upwelling of the water from the interior of the ocean, providing a passage for the exchange between the atmosphere and deep ocean. Unlike other major ocean basins, it does not have boundaries so that water circulates all around Antarctica. This wind-driven current is called Antarctic Circumpolar Current (ACC) and flows eastward connecting Atlantic, Pacific and Indian Oceans. The Southern Ocean plays an important role in earth&amp;rsquo;s climate.</description>
     </item>
     
     <item>
       <title>Publication</title>
-      <link>/publication/</link>
+      <link>https://asmlab.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>https://asmlab.github.io/publication/</guid>
       <description>Manuscripts under review  Doddridge, E. W., J. Marshall, H. Song, M. Kelley and L. Nazarenko: Eddy compensation dampens Southern Ocean SST response to westerly wind trends. Geophys. Res. Lett., submitted
  Kelly, T, R. Goericke, M. Kahru, H. Song and M. R. Stukel: CCE II: Spatial and interannual variability in export efficiency and the biological pump in an eastern boundary current upwelling system with substantial lateral advection. Deep-Sea Res.</description>
     </item>
     
     <item>
       <title>New Members</title>
-      <link>/news/new_members/</link>
+      <link>https://asmlab.github.io/news/new_members/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/news/new_members/</guid>
+      <guid>https://asmlab.github.io/news/new_members/</guid>
       <description>New members Undergraduate members join ASML
 * Ajin Cho, Sanghyun Kim, Jiwoo Choi</description>
     </item>
     
     <item>
       <title>research paper</title>
-      <link>/news/paper1/</link>
+      <link>https://asmlab.github.io/news/paper1/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/news/paper1/</guid>
+      <guid>https://asmlab.github.io/news/paper1/</guid>
       <description>Publish new paper Seasonal Variation in the Correlation Between Anomalies of Sea Level and Chlorophyll in the Antarctic Circumpolar Current is published on Geophysical Research Letters</description>
     </item>
     
     <item>
       <title>Southern Ocean Chlorophyll and eddies</title>
-      <link>/highlight/highlight1/</link>
+      <link>https://asmlab.github.io/highlight/highlight1/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/highlight/highlight1/</guid>
+      <guid>https://asmlab.github.io/highlight/highlight1/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -126,19 +126,19 @@ Upwelling source waters Along the California coast, equatorward wind transports 
     
     <item>
       <title>Laboratory Open</title>
-      <link>/news/labopen/</link>
+      <link>https://asmlab.github.io/news/labopen/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/news/labopen/</guid>
+      <guid>https://asmlab.github.io/news/labopen/</guid>
       <description>Air-Sea Modeling Laboratory (ASML) open Air-Sea Modeling Laboratory(ASML) is opened</description>
     </item>
     
     <item>
       <title>Application development</title>
-      <link>/highlight/service3/</link>
+      <link>https://asmlab.github.io/highlight/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/highlight/service3/</guid>
+      <guid>https://asmlab.github.io/highlight/service3/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -146,10 +146,10 @@ Upwelling source waters Along the California coast, equatorward wind transports 
     
     <item>
       <title>Custom website design</title>
-      <link>/highlight/service1/</link>
+      <link>https://asmlab.github.io/highlight/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/highlight/service1/</guid>
+      <guid>https://asmlab.github.io/highlight/service1/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -157,10 +157,10 @@ Upwelling source waters Along the California coast, equatorward wind transports 
     
     <item>
       <title>SEO &amp; SEM services</title>
-      <link>/highlight/service4/</link>
+      <link>https://asmlab.github.io/highlight/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/highlight/service4/</guid>
+      <guid>https://asmlab.github.io/highlight/service4/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -168,10 +168,10 @@ Upwelling source waters Along the California coast, equatorward wind transports 
     
     <item>
       <title>Wordpress integration</title>
-      <link>/highlight/service2/</link>
+      <link>https://asmlab.github.io/highlight/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/highlight/service2/</guid>
+      <guid>https://asmlab.github.io/highlight/service2/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

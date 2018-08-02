@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Air-Sea Modeling laboratory</title>
-    <link>/categories/news/</link>
+    <link>https://asmlab.github.io/categories/news/</link>
     <description>Recent content in News on Air-Sea Modeling laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://asmlab.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Members</title>
-      <link>/news/new_members/</link>
+      <link>https://asmlab.github.io/news/new_members/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/news/new_members/</guid>
+      <guid>https://asmlab.github.io/news/new_members/</guid>
       <description>New members Undergraduate members join ASML
 * Ajin Cho, Sanghyun Kim, Jiwoo Choi</description>
     </item>
     
     <item>
       <title>Laboratory Open</title>
-      <link>/news/labopen/</link>
+      <link>https://asmlab.github.io/news/labopen/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/news/labopen/</guid>
+      <guid>https://asmlab.github.io/news/labopen/</guid>
       <description>Air-Sea Modeling Laboratory (ASML) open Air-Sea Modeling Laboratory(ASML) is opened</description>
     </item>
     
