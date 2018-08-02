@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication on Air-Sea Modeling laboratory</title>
+    <link>/categories/publication/</link>
+    <description>Recent content in Publication on Air-Sea Modeling laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>research paper</title>
+      <link>/news/paper1/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/news/paper1/</guid>
+      <description>Publish new paper Seasonal Variation in the Correlation Between Anomalies of Sea Level and Chlorophyll in the Antarctic Circumpolar Current is published on Geophysical Research Letters</description>
+    </item>
+    
+  </channel>
+</rss>
