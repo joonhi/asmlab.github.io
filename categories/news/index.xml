@@ -6,10 +6,19 @@
     <description>Recent content in News on Air-Sea Modeling laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Aug 2018 00:08:37 -0400</lastBuildDate>
     
 	<atom:link href="https://asmlab.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New webpage</title>
+      <link>https://asmlab.github.io/news/test/</link>
+      <pubDate>Wed, 01 Aug 2018 00:08:37 -0400</pubDate>
+      
+      <guid>https://asmlab.github.io/news/test/</guid>
+      <description>Launching a new webpage We are please to launch the first webpage of the Air-Sea Modeling Lab. Please come and check our research and accomplishments.</description>
+    </item>
     
     <item>
       <title>New Members</title>

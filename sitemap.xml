@@ -47,6 +47,11 @@
   </url>
   
   <url>
+    <loc>https://asmlab.github.io/news/test/</loc>
+    <lastmod>2018-08-01T00:08:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://asmlab.github.io/news/new_members/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -93,13 +98,13 @@
   
   <url>
     <loc>https://asmlab.github.io/news/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-01T00:08:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://asmlab.github.io/categories/news/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-01T00:08:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
