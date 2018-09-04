@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://asmlab.github.io/news/mitvisit/</loc>
+    <lastmod>2018-09-04T17:44:46+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://asmlab.github.io/news/newwebpage/</loc>
     <lastmod>2018-08-01T00:08:37-04:00</lastmod>
   </url>
@@ -68,6 +73,12 @@
   </url>
   
   <url>
+    <loc>https://asmlab.github.io/categories/</loc>
+    <lastmod>2018-09-04T17:44:46+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://asmlab.github.io/</loc>
     <lastmod>2018-04-08T13:39:46+02:00</lastmod>
     <priority>0</priority>
@@ -79,6 +90,7 @@
   
   <url>
     <loc>https://asmlab.github.io/categories/</loc>
+    <lastmod>2018-09-04T17:44:46+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -94,7 +106,7 @@
   
   <url>
     <loc>https://asmlab.github.io/news/</loc>
-    <lastmod>2018-08-01T00:08:37-04:00</lastmod>
+    <lastmod>2018-09-04T17:44:46+09:00</lastmod>
     <priority>0</priority>
   </url>
   

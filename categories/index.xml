@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Air-Sea Modeling Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 04 Sep 2018 17:44:46 +0900</lastBuildDate>
     
 	<atom:link href="https://asmlab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://asmlab.github.io/categories/</link>
+      <pubDate>Tue, 04 Sep 2018 17:44:46 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/categories/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>News</title>
