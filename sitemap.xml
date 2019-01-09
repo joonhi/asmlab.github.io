@@ -8,21 +8,21 @@
   </url>
   
   <url>
-    <loc>https://asmlab.github.io/research/</loc>
-  </url>
-  
-  <url>
-    <loc>https://asmlab.github.io/research/southernocean/</loc>
-  </url>
-  
-  <url>
     <loc>https://asmlab.github.io/group/chunilnamgung/</loc>
     <lastmod>2018-04-08T13:39:46+02:00</lastmod>
   </url>
   
   <url>
+    <loc>https://asmlab.github.io/research/airseacouple/</loc>
+  </url>
+  
+  <url>
     <loc>https://asmlab.github.io/group/jiwoochoi/</loc>
     <lastmod>2018-04-08T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asmlab.github.io/research/southernocean/</loc>
   </url>
   
   <url>
@@ -32,10 +32,6 @@
   <url>
     <loc>https://asmlab.github.io/group/ajincho/</loc>
     <lastmod>2018-04-08T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://asmlab.github.io/research/airseacouple/</loc>
   </url>
   
   <url>
@@ -159,6 +155,10 @@
     <loc>https://asmlab.github.io/categories/publication/</loc>
     <lastmod>2018-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asmlab.github.io/research/</loc>
   </url>
   
   <url>
