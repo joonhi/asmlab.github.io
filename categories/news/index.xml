@@ -6,10 +6,19 @@
     <description>Recent content in News on Air-Sea Modeling Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 18:10:47 +0900</lastBuildDate>
     
 	<atom:link href="https://asmlab.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A New Member</title>
+      <link>https://asmlab.github.io/news/newmember_3/</link>
+      <pubDate>Fri, 01 Feb 2019 18:10:47 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/newmember_3/</guid>
+      <description>A New Member  Suji Gwak joined ASML starting February, 2019! We welcome you!</description>
+    </item>
     
     <item>
       <title>A New Member</title>
@@ -17,7 +26,7 @@
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://asmlab.github.io/news/newmember_2/</guid>
-      <description>New members  Chunil Namgung joined ASML starting October, 2018! We welcome you!</description>
+      <description>A New Member  Chunil Namgung joined ASML starting October, 2018! We welcome you!</description>
     </item>
     
     <item>
