@@ -6,10 +6,21 @@
     <description>Recent content in News on Air-Sea Modeling Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Feb 2019 18:10:47 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2019 08:59:30 +0900</lastBuildDate>
     
 	<atom:link href="https://asmlab.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MIT visit</title>
+      <link>https://asmlab.github.io/news/mitvisit_feb/</link>
+      <pubDate>Thu, 07 Mar 2019 08:59:30 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/mitvisit_feb/</guid>
+      <description>Hajoon Song visited MIT from February 6th to February 20th, 2019, as a visiting professor. As in last summer, he collaborated with Professor John Marshall and Dr. MaryamRashed Alshehhi to understand the ocean circulation in the area of Arabian Gulf.
+Using the state-of-art ocean circulation model, we tried to explain the salinity maximum in the subsurface of Arabian Sea observed in situ measurements and autonomous floats, Argo.
+I was told that this winter was mild one week before I visited.</description>
+    </item>
     
     <item>
       <title>A New Member</title>
