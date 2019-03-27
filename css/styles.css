@@ -540,7 +540,7 @@ img {
   display: block;
   text-indent: 0;
 }
-  
+
 /* pagination */
 .pagination > li > a {
   color: #808080;
@@ -905,4 +905,13 @@ tbody td {
    &:hover, &:focus {
       color: #004488;
    }
+}
+/******************
+    My addtion
+*******************/
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
 }
