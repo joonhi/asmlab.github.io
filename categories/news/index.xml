@@ -6,10 +6,19 @@
     <description>Recent content in News on Air-Sea Modeling Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Mar 2019 09:02:29 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2019 07:49:59 +0900</lastBuildDate>
     
 	<atom:link href="https://asmlab.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A new member</title>
+      <link>https://asmlab.github.io/news/newmember_4/</link>
+      <pubDate>Thu, 04 Jul 2019 07:49:59 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/newmember_4/</guid>
+      <description>A New Member  Kyungmin Kwak joined ASML starting July, 2019! We welcome you!</description>
+    </item>
     
     <item>
       <title>Hiring</title>
