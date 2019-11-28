@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Air-Sea Modeling Laboratory</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Air-Sea Modeling Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Apr 2018 13:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 09:02:29 +0900</lastBuildDate>
     
 	<atom:link href="https://asmlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,7 +26,7 @@
       <pubDate>Sun, 08 Apr 2018 13:39:46 +0200</pubDate>
       
       <guid>https://asmlab.github.io/group/ajincho/</guid>
-      <description> Education  B.S. 2019 Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  </description>
+      <description>Education  B.S. 2019 Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  </description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sun, 08 Apr 2018 13:39:46 +0200</pubDate>
       
       <guid>https://asmlab.github.io/group/chunilnamgung/</guid>
-      <description> Education  B.S. 2012 Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Experiences  2012-2015 Weather Forecast Officer(First Lieutenant), the Republic of Korea Air Force, Korea  Awards  2008 National Science and Engineering Scholarship (2008-1) 2009 National Science and Engineering Scholarship (2009-1,2) 2010 School Scholarship (2010-1) 2010 Lotte Foundation Scholarship (2010-2) 2011 Lotte Foundation Scholarship (2011-1,2)  </description>
+      <description>Education  B.S. 2012 Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Experiences  2012-2015 Weather Forecast Officer(First Lieutenant), the Republic of Korea Air Force, Korea  Awards  2008 National Science and Engineering Scholarship (2008-1) 2009 National Science and Engineering Scholarship (2009-1,2) 2010 School Scholarship (2010-1) 2010 Lotte Foundation Scholarship (2010-2) 2011 Lotte Foundation Scholarship (2011-1,2)  </description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       
       <guid>https://asmlab.github.io/research/airseacouple/</guid>
       <description>Air-sea interactions We are investigating air-sea couplings to understand the climate system in both large- and meso-scale processes. For the research, we are using a coupled atmosphere-ocean model with biogeochemical module and explore the physical processes and their impact on biogeochemical processes including the carbon cycle.
-Air-sea CO2 exchange While investigating the role of mesoscale eddies using both observations and numerical models, we find quite complicated, yet very interesting impacts of eddies in the Southern Ocean.</description>
+Air-sea CO2exchange While investigating the role of mesoscale eddies using both observations and numerical models, we find quite complicated, yet very interesting impacts of eddies in the Southern Ocean.</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@ Air-sea CO2 exchange While investigating the role of mesoscale eddies using both
       <pubDate>Mon, 01 Jul 2019 12:00:00 +0200</pubDate>
       
       <guid>https://asmlab.github.io/group/kyungminkwak/</guid>
-      <description> Education  B.S. (2019) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. , Gangneung, Korea  Awards  2019 : Awarded Honors (Korean Meteorological Society)  </description>
+      <description>Education  B.S. (2019) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. , Gangneung, Korea  Awards  2019 : Awarded Honors (Korean Meteorological Society)  </description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@ Air-sea CO2 exchange While investigating the role of mesoscale eddies using both
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://asmlab.github.io/research/southernocean/</guid>
-      <description>Southern Ocean The Southern Ocean is unique. Consistent eastward wind results in upwelling of the water from the interior of the ocean, providing a passage for the exchange between the atmosphere and deep ocean. Unlike other major ocean basins, it does not have boundaries so that water circulates all around Antarctica. This wind-driven current is called Antarctic Circumpolar Current (ACC) and flows eastward connecting Atlantic, Pacific and Indian Oceans. The Southern Ocean plays an important role in earth&amp;rsquo;s climate.</description>
+      <description>Southern Ocean The Southern Ocean is unique. Consistent eastward wind results in upwelling of the water from the interior of the ocean, providing a passage for the exchange between the atmosphere and deep ocean. Unlike other major ocean basins, it does not have boundaries so that water circulates all around Antarctica. This wind-driven current is called Antarctic Circumpolar Current (ACC) and flows eastward connecting Atlantic, Pacific and Indian Oceans. The Southern Ocean plays an important role in earth&#39;s climate.</description>
     </item>
     
     <item>
@@ -82,8 +82,8 @@ Upwelling source waters Along the California coast, equatorward wind transports 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://asmlab.github.io/publication/</guid>
-      <description>Peer-reviewed paper  Seo, H., A. C. Subramanian, Song, H., Chowdary, J. S.: Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, Deep Sea Research II, in press
- Song, H., J. Marshall, J-M Campin and D. J. McGillicuddy: Impact of near-inertial waves on vertical mixing and air-sea CO2 fluxes in the Southern Ocean. J. Geophys. Res. Oceans., 124, 4605–4617</description>
+      <description>Peer-reviewed paper    Seo, H., A. C. Subramanian, Song, H., Chowdary, J. S.: Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, Deep Sea Research II, in press
+  Song, H., J. Marshall, J-M Campin and D. J. McGillicuddy: Impact of near-inertial waves on vertical mixing and air-sea CO2 fluxes in the Southern Ocean. J. Geophys. Res. Oceans.</description>
     </item>
     
     <item>
@@ -92,7 +92,7 @@ Upwelling source waters Along the California coast, equatorward wind transports 
       <pubDate>Sun, 20 Jan 2019 13:39:46 +0200</pubDate>
       
       <guid>https://asmlab.github.io/group/sujigwak/</guid>
-      <description> Education  B.S. (expected in 2020) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  2016 : School Scholarship (2016-2) 2018 : Awarded Honors (2018-1) 2018 : State Scholarship  </description>
+      <description>Education  B.S. (expected in 2020) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  2016 : School Scholarship (2016-2) 2018 : Awarded Honors (2018-1) 2018 : State Scholarship  </description>
     </item>
     
     <item>
@@ -101,7 +101,7 @@ Upwelling source waters Along the California coast, equatorward wind transports 
       <pubDate>Sun, 08 Apr 2018 13:39:46 +0200</pubDate>
       
       <guid>https://asmlab.github.io/group/jiwoochoi/</guid>
-      <description> Education  B.S. (expected in 2021) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  2017 : Awarded High Honors (2017-1) 2018 : Awarded Honors (2017-2) 2018 : School Scholarship  </description>
+      <description>Education  B.S. (expected in 2021) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  2017 : Awarded High Honors (2017-1) 2018 : Awarded Honors (2017-2) 2018 : School Scholarship  </description>
     </item>
     
     <item>
@@ -110,7 +110,17 @@ Upwelling source waters Along the California coast, equatorward wind transports 
       <pubDate>Sun, 08 Apr 2018 13:39:46 +0200</pubDate>
       
       <guid>https://asmlab.github.io/group/sanghyunkim/</guid>
-      <description> Education  B.S. (expected in 2020) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  2014 : Awarded Honors (2014-1), School Scholarship (2014-2) 2015 : Awarded Honors (2014-2), Chungsoo Scholarship 2018 : Chungsoo Scholarship  </description>
+      <description>Education  B.S. (expected in 2020) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  2014 : Awarded Honors (2014-1), School Scholarship (2014-2) 2015 : Awarded Honors (2014-2), Chungsoo Scholarship 2018 : Chungsoo Scholarship  </description>
+    </item>
+    
+    <item>
+      <title>Hiring</title>
+      <link>https://asmlab.github.io/news/hiring/</link>
+      <pubDate>Wed, 27 Nov 2019 09:02:29 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/hiring/</guid>
+      <description>대기-해양 모델링 연구실에서 대학원생 연구원 및 학부 연구원을 모집합니다. 저희 연구실에서는 대기-해양 상호작용이 대기와 해양의 순환과 탄소교환에 미치는 영향에 대한 프로젝트를 수행하고 있습니다. 이 프로젝트에서 저희는 위성 및 무인관측값과 고해상도 수치모델을 이용하는 연구를 계획중이며, 함께 연구할 수 있는 연구원을 모집하고 있습니다.
+  대학원생 연구원 대기-해양 접합모델을 이용하여 대기-해양 상호작용과 이와 밀접한 관련이 있는 현상, 그리고 탄소순 연구에 관심이 있어서 대학원 진학을 희망하는 분들을 찾습니다. 2020년 2학기부터 시작하실 수 있고, 그 전까지 이메일로 지원를 받습니다.</description>
     </item>
     
     <item>
@@ -128,7 +138,7 @@ Upwelling source waters Along the California coast, equatorward wind transports 
       <pubDate>Tue, 23 Jul 2019 22:10:57 -0400</pubDate>
       
       <guid>https://asmlab.github.io/news/iugg/</guid>
-      <description>27th IUGG General Assembly Hajoon chaired the session &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet &amp;ldquo; in the 27th IUGG General Assembly (7&amp;frasl;8 - 7&amp;frasl;18, 2019) in Montreal, Canada. In this session, he also gave a poster presentation about the recently published work on the near-inertial waves and carbon dioxide exchange between the air and sea.
+      <description>27th IUGG General Assembly Hajoon chaired the session &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet &amp;quot; in the 27th IUGG General Assembly (7/8 - 7/18, 2019) in Montreal, Canada. In this session, he also gave a poster presentation about the recently published work on the near-inertial waves and carbon dioxide exchange between the air and sea.
 The poster can be downloaded from this link</description>
     </item>
     
@@ -138,8 +148,7 @@ The poster can be downloaded from this link</description>
       <pubDate>Thu, 04 Jul 2019 07:49:59 +0900</pubDate>
       
       <guid>https://asmlab.github.io/news/newmember_4/</guid>
-      <description>A New Member  Ajin Cho returned to ASML starting June, 2019! Welcome back! 
- Kyungmin Kwak joined ASML starting July, 2019! We welcome you!</description>
+      <description>A New Member </description>
     </item>
     
     <item>
@@ -148,8 +157,7 @@ The poster can be downloaded from this link</description>
       <pubDate>Sun, 30 Jun 2019 18:14:31 -0400</pubDate>
       
       <guid>https://asmlab.github.io/news/farewell_suji/</guid>
-      <description> A farewell party  Suji Gwak finished her internship with us at the end of June.
-We thank you for your contribution to our lab and wish you the very best! </description>
+      <description>A farewell party We thank you for your contribution to our lab and wish you the very best! </description>
     </item>
     
     <item>
@@ -158,8 +166,7 @@ We thank you for your contribution to our lab and wish you the very best! </desc
       <pubDate>Wed, 29 May 2019 18:21:46 -0400</pubDate>
       
       <guid>https://asmlab.github.io/news/hanyang/</guid>
-      <description> 한양대학교 해양융합과학기술 인재양성팀 초청세미나 Hajoon gave a talk with the title &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet &amp;ldquo; at Hanyang University
- </description>
+      <description>한양대학교 해양융합과학기술 인재양성팀 초청세미나 Hajoon gave a talk with the title &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet &amp;quot; at Hanyang University</description>
     </item>
     
     <item>
@@ -177,12 +184,10 @@ We thank you for your contribution to our lab and wish you the very best! </desc
       <pubDate>Fri, 12 Apr 2019 23:57:16 +0900</pubDate>
       
       <guid>https://asmlab.github.io/news/kms_climate/</guid>
-      <description> 2019년 한국기상학회 기후분과 봄학술대회 
-송하준 책임연구원은 2019년 한국기상학회 기후분과 봄학술대회의 학생워크샵에 강사로 초청되어
+      <description>2019년 한국기상학회 기후분과 봄학술대회 송하준 책임연구원은 2019년 한국기상학회 기후분과 봄학술대회의 학생워크샵에 강사로 초청되어
 &amp;ldquo;해양물리의 관점에서 보는 탄소순환&amp;rdquo;
 이라는 주제로 강연을 하였습니다. 많은 분들이 참석하셔서 모두 같이 해양물리와 탄소순환이 어떻게 연결되어 있는지 알아보는 의미있는 자리였습니다.
-강연 슬라이드는 여기에서 다운받으실 수 있습니다.
-   </description>
+강연 슬라이드는 여기에서 다운받으실 수 있습니다.</description>
     </item>
     
     <item>
@@ -191,20 +196,8 @@ We thank you for your contribution to our lab and wish you the very best! </desc
       <pubDate>Fri, 12 Apr 2019 23:57:16 +0900</pubDate>
       
       <guid>https://asmlab.github.io/news/egu/</guid>
-      <description>2019 EGU General Assembly 
-Hajoon attended 2019 EGU General Assembly and gave a talk titled with &amp;ldquo;Seasonal Variation in the Correlation Between Anomalies of Sea Level and Chlorophyll in the Antarctic Circumpolar Current&amp;rdquo; in the session &amp;ldquo;The Southern Ocean in a changing climate: from ice shelves to open ocean&amp;rdquo;
+      <description>2019 EGU General Assembly Hajoon attended 2019 EGU General Assembly and gave a talk titled with &amp;ldquo;Seasonal Variation in the Correlation Between Anomalies of Sea Level and Chlorophyll in the Antarctic Circumpolar Current&amp;rdquo; in the session &amp;ldquo;The Southern Ocean in a changing climate: from ice shelves to open ocean&amp;rdquo;
 This talk presented his paper appeared on GRL, so the detailed information about this talk can be found here.</description>
-    </item>
-    
-    <item>
-      <title>Hiring</title>
-      <link>https://asmlab.github.io/news/hiring/</link>
-      <pubDate>Wed, 27 Mar 2019 09:02:29 +0900</pubDate>
-      
-      <guid>https://asmlab.github.io/news/hiring/</guid>
-      <description>대기-해양 모델링 연구실에서 대학원생 연구원 및 학부 연구원을 모집합니다. 
-저희 연구실에서는 대기-해양 상호작용이 대기와 해양의 순환과 탄소교환에 미치는 영향에 대한 프로젝트를 수행하고 있습니다. 이 프로젝트에서 저희는 위성 및 무인관측값과 고해상도 수치모델을 이용하는 연구를 계획중이며, 함께 연구할 수 있는 연구원을 모집하고 있습니다.
- 대학원생 연구원 대기-해양 접합모델을 이용하여 대기-해양 상호작용과 이와 밀접한 관련이 있는 현상, 그리고 탄소순 연구에 관심이 있어서 대학원 진학을 희망하는 분들을 찾습니다. 2020년 2학기부터 시작하실 수 있고, 그 전까지 이메일로 지원를 받습니다.</description>
     </item>
     
     <item>
@@ -224,7 +217,7 @@ He was told that this winter has been mild until a very cold air mass covered th
       <pubDate>Fri, 01 Feb 2019 18:10:47 +0900</pubDate>
       
       <guid>https://asmlab.github.io/news/newmember_3/</guid>
-      <description>A New Member  Suji Gwak joined ASML starting February, 2019! We welcome you!</description>
+      <description>A New Member </description>
     </item>
     
     <item>
@@ -233,8 +226,7 @@ He was told that this winter has been mild until a very cold air mass covered th
       <pubDate>Mon, 31 Dec 2018 18:16:05 +0900</pubDate>
       
       <guid>https://asmlab.github.io/news/farewell_1/</guid>
-      <description> A farewell party  Sadly, we had to let Ajin Cho and Sanghyun Kim go.
-Ajin started working in the industry after the graduation and Sanghyun went to UC Davis as an exchange student. We wish you the best! </description>
+      <description>A farewell party Ajin started working in the industry after the graduation and Sanghyun went to UC Davis as an exchange student. We wish you the best! </description>
     </item>
     
     <item>
@@ -243,7 +235,7 @@ Ajin started working in the industry after the graduation and Sanghyun went to U
       <pubDate>Wed, 21 Nov 2018 23:57:16 +0900</pubDate>
       
       <guid>https://asmlab.github.io/news/ewha/</guid>
-      <description> The Colloquium at the Dept. of Climate and Energy Systems Engineering Hajoon gave a talk about the changing climate in the Southern Hemisphere with the title, &amp;ldquo;The Southern Oean where ocean and atmosphere meet&amp;rdquo; in the Department Colloquium. In the talk, he covered the responses of the atmospheric and oceanic circulations to the ozone hole.
+      <description>The Colloquium at the Dept. of Climate and Energy Systems Engineering Hajoon gave a talk about the changing climate in the Southern Hemisphere with the title, &amp;ldquo;The Southern Oean where ocean and atmosphere meet&amp;rdquo; in the [Department Colloquium] (http://home.ewha.ac.kr/cyoo/seminar.html). In the talk, he covered the responses of the atmospheric and oceanic circulations to the ozone hole.
  Link (Korean)  </description>
     </item>
     
@@ -308,7 +300,7 @@ The detailed information about this meeting can be found here.</description>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://asmlab.github.io/news/newmember_2/</guid>
-      <description>A New Member  Chunil Namgung joined ASML starting October, 2018! We welcome you!</description>
+      <description>A New Member </description>
     </item>
     
     <item>
@@ -317,7 +309,7 @@ The detailed information about this meeting can be found here.</description>
       <pubDate>Tue, 04 Sep 2018 17:44:46 +0900</pubDate>
       
       <guid>https://asmlab.github.io/news/mitvisit/</guid>
-      <description>Hajoon Song visited MIT from July 1st to August 24th, 2018, as a visiting professor. During the stay, he contributes to the project of the simulation of the Gulf of Arabia using a very high-resolution numerical ocean model with Professor John Marshall and Dr. MaryamRashed Alshehhi. His role involved the launch of the ocean model, analyze and diagnose the model results, and visualize the simulation. Another project he was involved with was the diagnosing the simulation of Arctic with the interest of the heat transport from the Atlantic Ocean to the Arctic.</description>
+      <description></description>
     </item>
     
     <item>
@@ -336,7 +328,7 @@ The detailed information about this meeting can be found here.</description>
       
       <guid>https://asmlab.github.io/news/new_members/</guid>
       <description>New members Undergraduate members join ASML
-* Ajin Cho, Sanghyun Kim, Jiwoo Choi</description>
+ Ajin Cho, Sanghyun Kim, Jiwoo Choi  </description>
     </item>
     
     <item>
@@ -345,8 +337,8 @@ The detailed information about this meeting can be found here.</description>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://asmlab.github.io/news/paper1/</guid>
-      <description>The Southern Ocean leaving the footprints on the chlorophyll Jiwoo Choi 
-Phytoplankton in the ocean contains chlorophyll in their body which absorbs CO2 and emits O2 during photosynthesis. Thus the amount of chlorophyll plays an important role in air-sea CO2 flux. The growth of phytoplankton depends on mainly two factors, light, and nutrient (iron in the Southern Ocean) which phytoplankton takes up as its food. The light provided to phytoplankton is abundant in summer, deficient in winter.</description>
+      <description>The Southern Ocean leaving the footprints on the chlorophyll Jiwoo Choi Original paper: Seasonal Variation in the Correlation Between Anomalies of Sea Level and Chlorophyll in the Antarctic Circumpolar Current (Hajoon Song)
+Seasonal Variation in the Correlation Between Anomalies of Sea Level and Chlorophyll in the Antarctic Circumpolar Current is published on Geophysical Research Letters</description>
     </item>
     
     <item>
@@ -373,7 +365,7 @@ Phytoplankton in the ocean contains chlorophyll in their body which absorbs CO2 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://asmlab.github.io/highlight/service3/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I don&#39;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&#39;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -382,7 +374,7 @@ Phytoplankton in the ocean contains chlorophyll in their body which absorbs CO2 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://asmlab.github.io/highlight/service1/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I don&#39;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&#39;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -391,7 +383,7 @@ Phytoplankton in the ocean contains chlorophyll in their body which absorbs CO2 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://asmlab.github.io/highlight/service4/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I don&#39;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&#39;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -400,7 +392,7 @@ Phytoplankton in the ocean contains chlorophyll in their body which absorbs CO2 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://asmlab.github.io/highlight/service2/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I don&#39;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&#39;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     
   </channel>
