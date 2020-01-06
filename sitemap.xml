@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -56,11 +56,13 @@
   <url>
     <loc>https://asmlab.github.io/</loc>
     <lastmod>2019-11-27T09:02:29+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://asmlab.github.io/categories/</loc>
     <lastmod>2019-11-27T09:02:29+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -69,13 +71,15 @@
   </url>
   
   <url>
-    <loc>https://asmlab.github.io/news/</loc>
+    <loc>https://asmlab.github.io/categories/news/</loc>
     <lastmod>2019-11-27T09:02:29+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://asmlab.github.io/categories/news/</loc>
+    <loc>https://asmlab.github.io/news/</loc>
     <lastmod>2019-11-27T09:02:29+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -91,6 +95,7 @@
   <url>
     <loc>https://asmlab.github.io/categories/meeting/</loc>
     <lastmod>2019-07-23T22:10:57-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -164,13 +169,14 @@
   </url>
   
   <url>
-    <loc>https://asmlab.github.io/categories/seminar/</loc>
+    <loc>https://asmlab.github.io/news/seminar_kopri/</loc>
     <lastmod>2018-10-19T23:03:07+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://asmlab.github.io/news/seminar_kopri/</loc>
+    <loc>https://asmlab.github.io/categories/seminar/</loc>
     <lastmod>2018-10-19T23:03:07+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -206,6 +212,7 @@
   <url>
     <loc>https://asmlab.github.io/categories/publication/</loc>
     <lastmod>2018-05-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -216,6 +223,7 @@
   <url>
     <loc>https://asmlab.github.io/highlight/</loc>
     <lastmod>2018-04-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
