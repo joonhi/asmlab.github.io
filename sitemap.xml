@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://asmlab.github.io/group/ajincho/</loc>
-    <lastmod>2018-04-08T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://asmlab.github.io/group/chunilnamgung/</loc>
     <lastmod>2018-04-08T13:39:46+02:00</lastmod>
   </url>
@@ -22,8 +17,8 @@
   </url>
   
   <url>
-    <loc>https://asmlab.github.io/group/kyungminkwak/</loc>
-    <lastmod>2019-07-01T12:00:00+02:00</lastmod>
+    <loc>https://asmlab.github.io/group/ajincho/</loc>
+    <lastmod>2018-04-08T13:39:46+02:00</lastmod>
   </url>
   
   <url>
@@ -35,7 +30,27 @@
   </url>
   
   <url>
+    <loc>https://asmlab.github.io/group/kyungminkwak/</loc>
+    <lastmod>2019-07-01T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://asmlab.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://asmlab.github.io/group/swhj/</loc>
+    <lastmod>2018-04-08T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asmlab.github.io/group/dhkim/</loc>
+    <lastmod>2018-04-08T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asmlab.github.io/group/dhlee/</loc>
+    <lastmod>2018-04-08T13:39:46+02:00</lastmod>
   </url>
   
   <url>
@@ -71,13 +86,13 @@
   </url>
   
   <url>
-    <loc>https://asmlab.github.io/categories/news/</loc>
+    <loc>https://asmlab.github.io/news/</loc>
     <lastmod>2019-11-27T09:02:29+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://asmlab.github.io/news/</loc>
+    <loc>https://asmlab.github.io/categories/news/</loc>
     <lastmod>2019-11-27T09:02:29+09:00</lastmod>
     <priority>0</priority>
   </url>
