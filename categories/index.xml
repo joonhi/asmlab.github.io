@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Air-Sea Modeling Laboratory</title>
@@ -6,15 +6,15 @@
     <description>Recent content in Categories on Air-Sea Modeling Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2019 09:02:29 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 09:02:29 +0900</lastBuildDate>
     
 	<atom:link href="https://asmlab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>news</title>
+      <title>News</title>
       <link>https://asmlab.github.io/categories/news/</link>
-      <pubDate>Wed, 27 Nov 2019 09:02:29 +0900</pubDate>
+      <pubDate>Mon, 11 May 2020 09:02:29 +0900</pubDate>
       
       <guid>https://asmlab.github.io/categories/news/</guid>
       <description></description>
