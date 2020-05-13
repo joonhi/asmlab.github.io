@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on Air-Sea Modeling Lab. Yonsei Univ.</title>
+    <link>https://asmlab.github.io/categories/travel/</link>
+    <description>Recent content in Travel on Air-Sea Modeling Lab. Yonsei Univ.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 29 Aug 2019 08:57:48 +0900</lastBuildDate>
+    
+	<atom:link href="https://asmlab.github.io/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MIT visit</title>
+      <link>https://asmlab.github.io/news/mitvisit_2019/</link>
+      <pubDate>Thu, 29 Aug 2019 08:57:48 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/mitvisit_2019/</guid>
+      <description>Hajoon Song visited MIT again from July 15th to August 20th, 2019, as a visiting professor. He continued to collaborate with Professor John Marshall and Dr. MaryamRashed Alshehhi to understand the ocean circulation in the area of Arabian Gulf.</description>
+    </item>
+    
+    <item>
+      <title>27th IUGG General Assembly</title>
+      <link>https://asmlab.github.io/news/iugg/</link>
+      <pubDate>Tue, 23 Jul 2019 22:10:57 -0400</pubDate>
+      
+      <guid>https://asmlab.github.io/news/iugg/</guid>
+      <description>27th IUGG General Assembly Hajoon chaired the session &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet &amp;ldquo; in the 27th IUGG General Assembly (7&amp;frasl;8 - 7&amp;frasl;18, 2019) in Montreal, Canada.</description>
+    </item>
+    
+    <item>
+      <title>MIT visit</title>
+      <link>https://asmlab.github.io/news/mitvisit_feb/</link>
+      <pubDate>Thu, 07 Mar 2019 08:59:30 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/mitvisit_feb/</guid>
+      <description>Hajoon Song visited MIT from February 6th to February 20th, 2019, as a visiting professor. As in last summer, he collaborated with Professor John Marshall and Dr. MaryamRashed Alshehhi to understand the ocean circulation in the area of Arabian Gulf.</description>
+    </item>
+    
+    <item>
+      <title>MIT visit</title>
+      <link>https://asmlab.github.io/news/mitvisit/</link>
+      <pubDate>Tue, 04 Sep 2018 17:44:46 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/mitvisit/</guid>
+      <description>Hajoon Song visited MIT from July 1st to August 24th, 2018, as a visiting professor. During the stay, he contributes to the project of the simulation of the Gulf of Arabia using a very high-resolution numerical ocean model with Professor John Marshall and Dr.</description>
+    </item>
+    
+  </channel>
+</rss>
