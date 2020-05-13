@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>서울대 on Air-Sea Modeling Lab. Yonsei Univ.</title>
-    <link>https://asmlab.github.io/tags/%EC%84%9C%EC%9A%B8%EB%8C%80/</link>
+    <link>https://airsea.yonsei.ac.kr/tags/%EC%84%9C%EC%9A%B8%EB%8C%80/</link>
     <description>Recent content in 서울대 on Air-Sea Modeling Lab. Yonsei Univ.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
     <lastBuildDate>Wed, 22 May 2019 23:57:16 +0900</lastBuildDate>
     
-	<atom:link href="https://asmlab.github.io/tags/%EC%84%9C%EC%9A%B8%EB%8C%80/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://airsea.yonsei.ac.kr/tags/%EC%84%9C%EC%9A%B8%EB%8C%80/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SEES Colloquium</title>
-      <link>https://asmlab.github.io/news/sees/</link>
+      <link>https://airsea.yonsei.ac.kr/news/sees/</link>
       <pubDate>Wed, 22 May 2019 23:57:16 +0900</pubDate>
       
-      <guid>https://asmlab.github.io/news/sees/</guid>
+      <guid>https://airsea.yonsei.ac.kr/news/sees/</guid>
       <description>SEES Colloquium at Seoul National University Hajoon gave a talk in the SEES Colloquium with the title of &amp;ldquo;The ocean circulation and its impact on the air-sea CO2 exchange&amp;rdquo;. He introduced the offline experiments with carbon cycle and emphasized that near-inertial waves can give a significant influence on the CO2 flux through vertical mixing.</description>
     </item>
     

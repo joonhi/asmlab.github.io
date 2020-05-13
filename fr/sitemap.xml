@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://asmlab.github.io/fr/</loc>
+    <loc>https://airsea.yonsei.ac.kr/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://asmlab.github.io/"
+                href="https://airsea.yonsei.ac.kr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://asmlab.github.io/fr/"
+                href="https://airsea.yonsei.ac.kr/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://asmlab.github.io/fr/categories/</loc>
+    <loc>https://airsea.yonsei.ac.kr/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://asmlab.github.io/categories/"
+                href="https://airsea.yonsei.ac.kr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://asmlab.github.io/fr/categories/"
+                href="https://airsea.yonsei.ac.kr/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://asmlab.github.io/fr/tags/</loc>
+    <loc>https://airsea.yonsei.ac.kr/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://asmlab.github.io/tags/"
+                href="https://airsea.yonsei.ac.kr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://asmlab.github.io/fr/tags/"
+                href="https://airsea.yonsei.ac.kr/fr/tags/"
                 />
   </url>
   

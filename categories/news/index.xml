@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Air-Sea Modeling Lab. Yonsei Univ.</title>
-    <link>https://asmlab.github.io/categories/news/</link>
+    <link>https://airsea.yonsei.ac.kr/categories/news/</link>
     <description>Recent content in News on Air-Sea Modeling Lab. Yonsei Univ.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
     <lastBuildDate>Wed, 01 Aug 2018 00:08:37 -0400</lastBuildDate>
     
-	<atom:link href="https://asmlab.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://airsea.yonsei.ac.kr/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New webpage</title>
-      <link>https://asmlab.github.io/news/newwebpage/</link>
+      <link>https://airsea.yonsei.ac.kr/news/newwebpage/</link>
       <pubDate>Wed, 01 Aug 2018 00:08:37 -0400</pubDate>
       
-      <guid>https://asmlab.github.io/news/newwebpage/</guid>
+      <guid>https://airsea.yonsei.ac.kr/news/newwebpage/</guid>
       <description>Launching a new webpage We are please to launch the first webpage of the Air-Sea Modeling Lab. Please come and check our research and accomplishments.</description>
     </item>
     
     <item>
       <title>Laboratory Open</title>
-      <link>https://asmlab.github.io/news/labopen/</link>
+      <link>https://airsea.yonsei.ac.kr/news/labopen/</link>
       <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
       
-      <guid>https://asmlab.github.io/news/labopen/</guid>
+      <guid>https://airsea.yonsei.ac.kr/news/labopen/</guid>
       <description>Air-Sea Modeling Laboratory (ASML) open Air-Sea Modeling Laboratory(ASML) is opened</description>
     </item>
     
