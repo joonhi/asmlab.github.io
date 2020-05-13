@@ -39,7 +39,7 @@
   
   <url>
     <loc>https://airsea.yonsei.ac.kr/</loc>
-    <lastmod>2020-05-11T09:02:29+09:00</lastmod>
+    <lastmod>2020-05-13T17:50:11+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://airsea.yonsei.ac.kr/categories/</loc>
-    <lastmod>2020-05-11T09:02:29+09:00</lastmod>
+    <lastmod>2020-05-13T17:50:11+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -68,28 +68,18 @@
   </url>
   
   <url>
-    <loc>https://airsea.yonsei.ac.kr/categories/hiring/</loc>
-    <lastmod>2020-05-11T09:02:29+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://airsea.yonsei.ac.kr/tags/hiring/</loc>
-    <lastmod>2020-05-11T09:02:29+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://airsea.yonsei.ac.kr/news/</loc>
-    <lastmod>2020-05-11T09:02:29+09:00</lastmod>
+    <lastmod>2020-05-13T17:50:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://airsea.yonsei.ac.kr/tags/postdoc/</loc>
-    <lastmod>2020-05-11T09:02:29+09:00</lastmod>
+    <loc>https://airsea.yonsei.ac.kr/categories/news/</loc>
+    <lastmod>2020-05-13T17:50:11+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://airsea.yonsei.ac.kr/tags/</loc>
-    <lastmod>2020-05-11T09:02:29+09:00</lastmod>
+    <lastmod>2020-05-13T17:50:11+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -103,8 +93,53 @@
   </url>
   
   <url>
+    <loc>https://airsea.yonsei.ac.kr/tags/webpage/</loc>
+    <lastmod>2020-05-13T17:50:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://airsea.yonsei.ac.kr/tags/webpage_update/</loc>
+    <lastmod>2020-05-13T17:50:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://airsea.yonsei.ac.kr/news/webpage_update/</loc>
+    <lastmod>2020-05-13T17:50:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://airsea.yonsei.ac.kr/categories/hiring/</loc>
+    <lastmod>2020-05-11T09:02:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://airsea.yonsei.ac.kr/tags/hiring/</loc>
+    <lastmod>2020-05-11T09:02:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://airsea.yonsei.ac.kr/tags/postdoc/</loc>
+    <lastmod>2020-05-11T09:02:29+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://airsea.yonsei.ac.kr/news/hiring_postdoc/</loc>
     <lastmod>2020-05-11T09:02:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://airsea.yonsei.ac.kr/tags/sio/</loc>
+    <lastmod>2020-02-01T18:01:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://airsea.yonsei.ac.kr/categories/travel/</loc>
+    <lastmod>2020-02-01T18:01:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://airsea.yonsei.ac.kr/news/sio/</loc>
+    <lastmod>2020-02-01T18:01:33+09:00</lastmod>
   </url>
   
   <url>
@@ -129,11 +164,6 @@
   
   <url>
     <loc>https://airsea.yonsei.ac.kr/news/mitvisit_2019/</loc>
-    <lastmod>2019-08-29T08:57:48+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://airsea.yonsei.ac.kr/categories/travel/</loc>
     <lastmod>2019-08-29T08:57:48+09:00</lastmod>
   </url>
   
@@ -329,16 +359,6 @@
   
   <url>
     <loc>https://airsea.yonsei.ac.kr/news/newwebpage/</loc>
-    <lastmod>2018-08-01T00:08:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://airsea.yonsei.ac.kr/categories/news/</loc>
-    <lastmod>2018-08-01T00:08:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://airsea.yonsei.ac.kr/tags/webpage/</loc>
     <lastmod>2018-08-01T00:08:37-04:00</lastmod>
   </url>
   

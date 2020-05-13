@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 29 Aug 2019 08:57:48 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 18:01:33 +0900</lastBuildDate>
     
 	<atom:link href="https://airsea.yonsei.ac.kr/categories/travel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Visit to Scripps Institution of Oceanography</title>
+      <link>https://airsea.yonsei.ac.kr/news/sio/</link>
+      <pubDate>Sat, 01 Feb 2020 18:01:33 +0900</pubDate>
+      
+      <guid>https://airsea.yonsei.ac.kr/news/sio/</guid>
+      <description>Hajoon visited Bruce Cornuelle and Art Miller at Scripps Institution of Oceanography in February, 2020. The main purpose of the visit is to set up the WRF-MITgcm coupled model over the northwest Pacific.</description>
+    </item>
     
     <item>
       <title>MIT visit</title>

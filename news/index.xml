@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 11 May 2020 09:02:29 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 17:50:11 +0900</lastBuildDate>
     
 	<atom:link href="https://airsea.yonsei.ac.kr/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Webpage_update</title>
+      <link>https://airsea.yonsei.ac.kr/news/webpage_update/</link>
+      <pubDate>Wed, 13 May 2020 17:50:11 +0900</pubDate>
+      
+      <guid>https://airsea.yonsei.ac.kr/news/webpage_update/</guid>
+      <description>We made a major update of the lab webpage so that the pagination works well for the &amp;ldquo;News&amp;rdquo; section.
+It is built based on the theme called Airspace. Photos are mainly from NASA Goddard Flickr page, a vorticity field that Ryan Abernathey created using the MITgcm llc4320 simulation and other online places.</description>
+    </item>
     
     <item>
       <title>박사후 연구원 모집</title>
@@ -20,6 +30,15 @@
       <guid>https://airsea.yonsei.ac.kr/news/hiring_postdoc/</guid>
       <description>대기-해양 모델링 연구실에서 박사후 연구원을 모집합니다. 저희 연구실에서는 해양모델링 및 해양자료동화 관련 프로젝트를 계획중이며, 함께 연구할 수 있는 박사후 연구원을 모집하고 있습니다.
 ■ 지원조건 - 해양학, 대기과학 관련분야 박사과정 졸업자 (박사학위 취득 후 5년이내여야 함) - 수치모델링 혹은 자료동화 관련 연구경험 - 2020년 상반기에 시작할 수 있는 자</description>
+    </item>
+    
+    <item>
+      <title>Visit to Scripps Institution of Oceanography</title>
+      <link>https://airsea.yonsei.ac.kr/news/sio/</link>
+      <pubDate>Sat, 01 Feb 2020 18:01:33 +0900</pubDate>
+      
+      <guid>https://airsea.yonsei.ac.kr/news/sio/</guid>
+      <description>Hajoon visited Bruce Cornuelle and Art Miller at Scripps Institution of Oceanography in February, 2020. The main purpose of the visit is to set up the WRF-MITgcm coupled model over the northwest Pacific.</description>
     </item>
     
     <item>
