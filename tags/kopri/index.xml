@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KOPRI on Air-Sea Modeling Lab. Yonsei Univ.</title>
+    <link>https://asmlab.github.io/tags/kopri/</link>
+    <description>Recent content in KOPRI on Air-Sea Modeling Lab. Yonsei Univ.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 19 Oct 2018 23:03:07 +0900</lastBuildDate>
+    
+	<atom:link href="https://asmlab.github.io/tags/kopri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seminar at KOPRI</title>
+      <link>https://asmlab.github.io/news/seminar_kopri/</link>
+      <pubDate>Fri, 19 Oct 2018 23:03:07 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/seminar_kopri/</guid>
+      <description>A Visit to Korea Polar Research Institute Hajoon was invited to the EGG seminar at Korea Polar Research Institute in Incheon. The talk was titled &amp;ldquo;Seasonal Variation in the Correlation Between Anomalies of Sea Level and Chlorophyll in the Antarctic Circumpolar Current&amp;rdquo; and discussed the impact of mesoscale mixed layer depth modulation on chlorophyll along the Antarctic Circumpolar Current in the Southern Ocean.</description>
+    </item>
+    
+  </channel>
+</rss>

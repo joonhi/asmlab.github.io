@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Member on Air-Sea Modeling Lab. Yonsei Univ.</title>
+    <link>https://asmlab.github.io/categories/member/</link>
+    <description>Recent content in Member on Air-Sea Modeling Lab. Yonsei Univ.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 04 Jul 2019 07:49:59 +0900</lastBuildDate>
+    
+	<atom:link href="https://asmlab.github.io/categories/member/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New members</title>
+      <link>https://asmlab.github.io/news/newmember_4/</link>
+      <pubDate>Thu, 04 Jul 2019 07:49:59 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/newmember_4/</guid>
+      <description>A New Member  Ajin Cho returned to ASML starting June, 2019! Welcome back! 
+ Kyungmin Kwak joined ASML starting July, 2019! We welcome you!</description>
+    </item>
+    
+    <item>
+      <title>Farewell</title>
+      <link>https://asmlab.github.io/news/farewell_suji/</link>
+      <pubDate>Sun, 30 Jun 2019 18:14:31 -0400</pubDate>
+      
+      <guid>https://asmlab.github.io/news/farewell_suji/</guid>
+      <description>A farewell party 
+Suji Gwak finished her internship with us at the end of June.
+We thank you for your contribution to our lab and wish you the very best!</description>
+    </item>
+    
+    <item>
+      <title>A New member</title>
+      <link>https://asmlab.github.io/news/newmember_3/</link>
+      <pubDate>Fri, 01 Feb 2019 18:10:47 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/newmember_3/</guid>
+      <description>A New Member 
+Suji Gwak joined ASML starting February, 2019! We welcome you!</description>
+    </item>
+    
+    <item>
+      <title>Farewell</title>
+      <link>https://asmlab.github.io/news/farewell_1/</link>
+      <pubDate>Mon, 31 Dec 2018 18:16:05 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/farewell_1/</guid>
+      <description>A farewell party 
+Sadly, we had to let Ajin Cho and Sanghyun Kim go.
+Ajin started working in the industry after the graduation and Sanghyun went to UC Davis as an exchange student.</description>
+    </item>
+    
+    <item>
+      <title>A New member</title>
+      <link>https://asmlab.github.io/news/newmember_2/</link>
+      <pubDate>Mon, 01 Oct 2018 18:10:47 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/newmember_2/</guid>
+      <description>A New Member  Chunil Namgung joined ASML starting October, 2018! We welcome you!</description>
+    </item>
+    
+    <item>
+      <title>New members</title>
+      <link>https://asmlab.github.io/news/new_members/</link>
+      <pubDate>Fri, 01 Jun 2018 07:49:59 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/new_members/</guid>
+      <description>New members Undergraduate members join ASML
+* Ajin Cho, Sanghyun Kim, Jiwoo Choi</description>
+    </item>
+    
+  </channel>
+</rss>

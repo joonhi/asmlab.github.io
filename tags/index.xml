@@ -1,14 +1,259 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Air-Sea Modeling laboratory</title>
+    <title>Tags on Air-Sea Modeling Lab. Yonsei Univ.</title>
     <link>https://asmlab.github.io/tags/</link>
-    <description>Recent content in Tags on Air-Sea Modeling laboratory</description>
+    <description>Recent content in Tags on Air-Sea Modeling Lab. Yonsei Univ.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 11 May 2020 09:02:29 +0900</lastBuildDate>
     
 	<atom:link href="https://asmlab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hiring</title>
+      <link>https://asmlab.github.io/tags/hiring/</link>
+      <pubDate>Mon, 11 May 2020 09:02:29 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/hiring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postdoc</title>
+      <link>https://asmlab.github.io/tags/postdoc/</link>
+      <pubDate>Mon, 11 May 2020 09:02:29 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/postdoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>master</title>
+      <link>https://asmlab.github.io/tags/master/</link>
+      <pubDate>Wed, 27 Nov 2019 09:02:29 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>https://asmlab.github.io/tags/phd/</link>
+      <pubDate>Wed, 27 Nov 2019 09:02:29 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT</title>
+      <link>https://asmlab.github.io/tags/mit/</link>
+      <pubDate>Thu, 29 Aug 2019 08:57:48 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/mit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>https://asmlab.github.io/tags/travel/</link>
+      <pubDate>Thu, 29 Aug 2019 08:57:48 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canada</title>
+      <link>https://asmlab.github.io/tags/canada/</link>
+      <pubDate>Tue, 23 Jul 2019 22:10:57 -0400</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/canada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>member</title>
+      <link>https://asmlab.github.io/tags/member/</link>
+      <pubDate>Thu, 04 Jul 2019 07:49:59 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/member/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seminar</title>
+      <link>https://asmlab.github.io/tags/seminar/</link>
+      <pubDate>Wed, 29 May 2019 18:21:46 -0400</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>한양대</title>
+      <link>https://asmlab.github.io/tags/%ED%95%9C%EC%96%91%EB%8C%80/</link>
+      <pubDate>Wed, 29 May 2019 18:21:46 -0400</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/%ED%95%9C%EC%96%91%EB%8C%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>서울대</title>
+      <link>https://asmlab.github.io/tags/%EC%84%9C%EC%9A%B8%EB%8C%80/</link>
+      <pubDate>Wed, 22 May 2019 23:57:16 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/%EC%84%9C%EC%9A%B8%EB%8C%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EGU</title>
+      <link>https://asmlab.github.io/tags/egu/</link>
+      <pubDate>Fri, 12 Apr 2019 23:57:16 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/egu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meeting</title>
+      <link>https://asmlab.github.io/tags/meeting/</link>
+      <pubDate>Fri, 12 Apr 2019 23:57:16 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>기상학회</title>
+      <link>https://asmlab.github.io/tags/%EA%B8%B0%EC%83%81%ED%95%99%ED%9A%8C/</link>
+      <pubDate>Fri, 12 Apr 2019 23:57:16 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/%EA%B8%B0%EC%83%81%ED%95%99%ED%9A%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>이화여대</title>
+      <link>https://asmlab.github.io/tags/%EC%9D%B4%ED%99%94%EC%97%AC%EB%8C%80/</link>
+      <pubDate>Wed, 21 Nov 2018 23:57:16 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/%EC%9D%B4%ED%99%94%EC%97%AC%EB%8C%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KIAPS</title>
+      <link>https://asmlab.github.io/tags/kiaps/</link>
+      <pubDate>Tue, 13 Nov 2018 23:57:16 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/kiaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KHOA</title>
+      <link>https://asmlab.github.io/tags/khoa/</link>
+      <pubDate>Sat, 10 Nov 2018 23:58:04 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/khoa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PICES</title>
+      <link>https://asmlab.github.io/tags/pices/</link>
+      <pubDate>Fri, 02 Nov 2018 23:56:46 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/pices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KOPRI</title>
+      <link>https://asmlab.github.io/tags/kopri/</link>
+      <pubDate>Fri, 19 Oct 2018 23:03:07 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/kopri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIMS</title>
+      <link>https://asmlab.github.io/tags/nims/</link>
+      <pubDate>Wed, 17 Oct 2018 23:03:07 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/nims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KMA</title>
+      <link>https://asmlab.github.io/tags/kma/</link>
+      <pubDate>Fri, 12 Oct 2018 22:57:55 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/kma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webpage</title>
+      <link>https://asmlab.github.io/tags/webpage/</link>
+      <pubDate>Wed, 01 Aug 2018 00:08:37 -0400</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/webpage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publication</title>
+      <link>https://asmlab.github.io/tags/publication/</link>
+      <pubDate>Thu, 17 May 2018 07:49:59 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>air-sea interaction</title>
+      <link>https://asmlab.github.io/tags/air-sea-interaction/</link>
+      <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/air-sea-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data assimilation</title>
+      <link>https://asmlab.github.io/tags/data-assimilation/</link>
+      <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/data-assimilation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://asmlab.github.io/tags/news/</link>
+      <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>southern ocean</title>
+      <link>https://asmlab.github.io/tags/southern-ocean/</link>
+      <pubDate>Thu, 01 Mar 2018 07:49:59 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/tags/southern-ocean/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

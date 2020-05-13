@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PICES on Air-Sea Modeling Lab. Yonsei Univ.</title>
+    <link>https://asmlab.github.io/tags/pices/</link>
+    <description>Recent content in PICES on Air-Sea Modeling Lab. Yonsei Univ.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 02 Nov 2018 23:56:46 +0900</lastBuildDate>
+    
+	<atom:link href="https://asmlab.github.io/tags/pices/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PICES annual meeting</title>
+      <link>https://asmlab.github.io/news/pices/</link>
+      <pubDate>Fri, 02 Nov 2018 23:56:46 +0900</pubDate>
+      
+      <guid>https://asmlab.github.io/news/pices/</guid>
+      <description>PICES-2018 Annual Meeting Hajoon attended PICES-2018 Annual Meeting in Yokohama, Japan from October 31 to November 2, 2018. He gave a talk titled by &amp;ldquo;]Data assimilation of physical and chlorophyll-a observations in the California Current System using two biogeochemical models](https://meetings.</description>
+    </item>
+    
+  </channel>
+</rss>
