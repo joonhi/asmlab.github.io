@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lab on Air-Sea Modeling Lab. Yonsei Univ.</title>
+    <link>https://airsea.yonsei.ac.kr/categories/lab/</link>
+    <description>Recent content in lab on Air-Sea Modeling Lab. Yonsei Univ.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 30 Aug 2020 16:01:04 +0900</lastBuildDate>
+    
+	<atom:link href="https://airsea.yonsei.ac.kr/categories/lab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Renovation</title>
+      <link>https://airsea.yonsei.ac.kr/news/renovation/</link>
+      <pubDate>Sun, 30 Aug 2020 16:01:04 +0900</pubDate>
+      
+      <guid>https://airsea.yonsei.ac.kr/news/renovation/</guid>
+      <description>The laboratory room was significantly renovated! The floor has been an issue in the last couple of years; an uneven surface with holes and duct tapes was not safe and made it difficult to put the desks and chairs.</description>
+    </item>
+    
+  </channel>
+</rss>
