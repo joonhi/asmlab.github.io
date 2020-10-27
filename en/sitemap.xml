@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://airsea.yonsei.ac.kr/group/ajincho/</loc>
-    <lastmod>2018-04-08T13:39:46+02:00</lastmod>
+    <loc>https://airsea.yonsei.ac.kr/group/yjtak/</loc>
+    <lastmod>2020-09-01T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://airsea.yonsei.ac.kr/group/chunilnamgung/</loc>
+    <loc>https://airsea.yonsei.ac.kr/group/ajincho/</loc>
     <lastmod>2018-04-08T13:39:46+02:00</lastmod>
   </url>
   
@@ -38,8 +38,13 @@
   </url>
   
   <url>
+    <loc>https://airsea.yonsei.ac.kr/group/chunilnamgung/</loc>
+    <lastmod>2018-04-08T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://airsea.yonsei.ac.kr/</loc>
-    <lastmod>2020-08-30T16:53:20+09:00</lastmod>
+    <lastmod>2020-09-01T13:39:46+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -50,6 +55,11 @@
                 hreflang="en"
                 href="https://airsea.yonsei.ac.kr/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://airsea.yonsei.ac.kr/group/</loc>
+    <lastmod>2020-09-01T13:39:46+02:00</lastmod>
   </url>
   
   <url>
@@ -405,11 +415,6 @@
   <url>
     <loc>https://airsea.yonsei.ac.kr/tags/publication/</loc>
     <lastmod>2018-05-17T07:49:59+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://airsea.yonsei.ac.kr/group/</loc>
-    <lastmod>2018-04-08T13:39:46+02:00</lastmod>
   </url>
   
   <url>
