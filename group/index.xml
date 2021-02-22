@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 01 Sep 2020 13:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Feb 2021 13:39:46 +0200</lastBuildDate>
     
 	<atom:link href="https://airsea.yonsei.ac.kr/group/index.xml" rel="self" type="application/rss+xml" />
     
@@ -28,6 +28,15 @@
       
       <guid>https://airsea.yonsei.ac.kr/group/yjtak/</guid>
       <description>Research Interests  Air-sea interactions Ocean circulation Physical-biogeochemical coupled modeling  Education  Ph.D. (2020) School of Earth and Environmental Science, Seoul National University, Seoul, South Korea  Research Experiences  2020.</description>
+    </item>
+    
+    <item>
+      <title>Chohyun Rhee</title>
+      <link>https://airsea.yonsei.ac.kr/group/chohyun/</link>
+      <pubDate>Mon, 08 Feb 2021 13:39:46 +0200</pubDate>
+      
+      <guid>https://airsea.yonsei.ac.kr/group/chohyun/</guid>
+      <description> Education  B.S. (2018) Environmental Science &amp;amp; Ecological Engineering, Korea University, Seoul, Korea  </description>
     </item>
     
     <item>
@@ -74,6 +83,15 @@ Education  B.S. 2020 Department of Atmospheric Sciences, Yonsei University, Seou
       
       <guid>https://airsea.yonsei.ac.kr/group/jiwoochoi/</guid>
       <description> Research Interests  Climate change Extreme weather Coastal hazards  Education  B.S. (expected in 2021) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  2017 : Awarded High Honors (2017-1) 2018 : Awarded Honors (2017-2) 2018 : Awarded Honors (2018-1) 2019 : Awarded High Honors (2018-2) 2019 : Awarded High Honors (2019-1) 2020 : Awarded Honors (2019-2)  </description>
+    </item>
+    
+    <item>
+      <title>Yujin Kim</title>
+      <link>https://airsea.yonsei.ac.kr/group/yujinkim/</link>
+      <pubDate>Sun, 08 Apr 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://airsea.yonsei.ac.kr/group/yujinkim/</guid>
+      <description> Education  B.S. (2021) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea  Awards  2019 : Awarded Honors (2018-2) 2020 : Awarded Honors (2019-2)  </description>
     </item>
     
   </channel>
