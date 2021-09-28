@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 31 Aug 2021 00:43:34 +0900</lastBuildDate>
-    
-	<atom:link href="https://airsea.yonsei.ac.kr/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 31 Aug 2021 00:43:34 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graduation</title>
       <link>https://airsea.yonsei.ac.kr/tags/graduation/</link>
@@ -45,15 +41,6 @@
       <pubDate>Sun, 30 Aug 2020 16:01:04 +0900</pubDate>
       
       <guid>https://airsea.yonsei.ac.kr/tags/renovation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>webpage</title>
-      <link>https://airsea.yonsei.ac.kr/tags/webpage/</link>
-      <pubDate>Wed, 13 May 2020 17:50:11 +0900</pubDate>
-      
-      <guid>https://airsea.yonsei.ac.kr/tags/webpage/</guid>
       <description></description>
     </item>
     
@@ -252,6 +239,15 @@
       <pubDate>Fri, 12 Oct 2018 22:57:55 +0900</pubDate>
       
       <guid>https://airsea.yonsei.ac.kr/tags/kma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webpage</title>
+      <link>https://airsea.yonsei.ac.kr/tags/webpage/</link>
+      <pubDate>Wed, 01 Aug 2018 00:08:37 -0400</pubDate>
+      
+      <guid>https://airsea.yonsei.ac.kr/tags/webpage/</guid>
       <description></description>
     </item>
     

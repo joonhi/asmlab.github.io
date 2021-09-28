@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [ASML Yonsei](https://airsea.yonsei.ac.kr) All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 01 Mar 2018 07:49:59 +0900</lastBuildDate>
-    
-	<atom:link href="https://airsea.yonsei.ac.kr/tags/data-assimilation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 01 Mar 2018 07:49:59 +0900</lastBuildDate><atom:link href="https://airsea.yonsei.ac.kr/tags/data-assimilation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>State estimation</title>
       <link>https://airsea.yonsei.ac.kr/research/dataassimilation/</link>
