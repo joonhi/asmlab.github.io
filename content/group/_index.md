@@ -8,12 +8,10 @@ bg_image: "images/fromiss2.jpg"
 
 ## Group Photos
 <div class="col-sm-4 portfolio-item shuffle-item">
-  <img src="images/group_20220408.jpeg" alt="">
+  <img src="/images/group_20220408.jpeg" alt="">
   <div class="portfolio-hover">
-    <div class="portfolio-content">
-      <a href="/images/Group_2021winter.jpeg" class="portfolio-popup"><i class="icon ion-search"></i></a>
       <p>April 8th, 2022 at Yonsei University</p>
-    </div>
+  </div>
   </div>
 </div>
 
