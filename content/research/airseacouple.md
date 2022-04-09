@@ -2,13 +2,19 @@
 title: "Air-sea Interaction"
 date: 2018-03-01T07:49:59+09:00
 author: Hajoon Song
-image : "images/news/news_1.jpg"
-bg_image: "images/fromiss2.jpg"
 categories: ["Research"]
 tags: ["air-sea interaction"]
 description: ""
-draft: false
+resources:
+  - name: forest-1
+    src: "images/news_1.jpg"
+    title: Forest (1)
 ---
+
+---
+
+{{< img name="forest-1" size="large" lazy=false >}}
+
 ### Air-sea interactions
 We are investigating air-sea couplings to understand the climate system in both large- and meso-scale processes. For the research, we are using a coupled atmosphere-ocean model with biogeochemical module and explore the physical processes and their impact on biogeochemical processes including the carbon cycle.
 
