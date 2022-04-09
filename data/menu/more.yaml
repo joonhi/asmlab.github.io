@@ -1,0 +1,5 @@
+---
+more:
+  - name: News
+    ref: "/news"
+    icon: "gdoc_notification"

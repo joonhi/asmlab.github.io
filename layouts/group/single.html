@@ -1,0 +1,27 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+
+  <article
+    class="gdoc-markdown gdoc-markdown__align--{{ default "left" (.Page.Params.GeekdocAlign | lower) }}"
+  >
+    <h1>{{ partial "title" . }}</h1>
+
+	<div class="gdoc-columns flex flex-wrap flex-mobile-column">
+     <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
+	  <h4>Information</h4>
+      <ul>
+       {{ range .Params.Information }}
+       <li>{{ .label }} : &nbsp <strong>{{ .info | markdownify }}</strong></li>
+       {{ end }}
+      </ul>
+     </div>
+     <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
+      <img class="rounded" src="{{ .Params.Image | relURL }}" alt="">
+     </div>
+    </div>
+
+    {{ partial "content" . }}
+
+  </article>
+{{ end }}
