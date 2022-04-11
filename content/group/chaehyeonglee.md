@@ -1,10 +1,10 @@
 ---
 title: "Chaehyeong Lee"
-nickname: "lch"
+nickname: "hyeong"
 date: "2018-04-08T13:39:46+02:00"
-image: "images/group/chlee.png"
+image: "images/group/chlee.jpeg"
 bg_image: "images/fromiss2.jpg"
-category: "Undergraduate Program"
+category: "Master Program"
 information:
   - label: "Title"
     info: "Research Assistant"
@@ -16,8 +16,14 @@ information:
     info: "Science Hall #532, Yonsei University"
   - label: "webpage"
     info: ""
-weight: 5
+weight: 4
 ---
 
+#### Research Interests
++ Sea Surface Temperature tendency and variability
+
 #### Education
-+ **B.S.** (expected in 2021) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **B.S.** (2022) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
+
+#### Awards
++ 2021 : Awarded High Honors (2021-2)

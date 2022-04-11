@@ -2,7 +2,7 @@
 title: "Chohyun Rhee"
 nickname: "Chohyun"
 date: "2021-02-08T13:39:46+02:00"
-image: "images/group/chohyunrhee.jpg"
+image: "images/group/chohyun.jpg"
 bg_image: "images/fromiss2.jpg"
 category: "Master Program"
 information:
