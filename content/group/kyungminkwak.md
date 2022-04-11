@@ -9,7 +9,7 @@ information:
   - label: "Title"
     info: "Research Assistant"
   - label: "email"
-    info: "kmindu14@yonsei.ac.kr"
+    info: "kminkwak@yonsei.ac.kr"
   - label: "phone"
     info: "+82-2-2123-7608"
   - label: "Office"
@@ -20,6 +20,7 @@ weight: 3
 ---
 
 #### Education
++ **M.S.** (2021) Atmospheric Sciences, Yonsei Univ. , Seoul, Korea
 + **B.S.** (2019) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. , Gangneung, Korea
 
 
