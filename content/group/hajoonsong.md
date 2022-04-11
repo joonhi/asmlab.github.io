@@ -7,7 +7,7 @@ bg_image: "images/fromiss2.jpg"
 category: "Principal Investigator"
 information:
   - label: "Title"
-    info: "Assistant Professor"
+    info: "Associate Professor"
   - label: "email"
     info: "hajsong@yonsei.ac.kr"
   - label: "phone"
