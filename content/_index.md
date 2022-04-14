@@ -105,4 +105,4 @@ geekdocHidden: true
   <button type="button" class="slider-nav slider-nav-next"></button>
 </div>
 
-{{< button size="large" relref="research/airseacouple/" >}}Getting Started{{< /button >}}
+{{< button size="large" relref="research/" >}}Getting Started{{< /button >}}

@@ -2,7 +2,7 @@
 title: "People in ASML"
 description: ""
 draft: false
-bg_image: "images/fromiss2.jpg"
+weight: 2
 ---
 <br>
 

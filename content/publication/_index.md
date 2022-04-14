@@ -2,7 +2,7 @@
 title: "Publication"
 description: ""
 draft: false
-bg_image: "images/fromiss2.jpg"
+weight: 3
 ---
 
 
