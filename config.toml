@@ -4,6 +4,8 @@ theme = "hugo-geekdoc"
 
 publishDir = "docs"
 
+google_analitycs_id = "UA-123271309-1" # Your ID# search
+
 # Required to get well formatted code blocks
 pygmentsUseClasses = true
 pygmentsCodeFences = true
