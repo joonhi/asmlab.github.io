@@ -4,7 +4,7 @@ nickname: "dhkim"
 date: "2018-04-08T13:39:46+02:00"
 image: "images/group/dhkim.png"
 bg_image: "images/fromiss2.jpg"
-category: "Master Program"
+category: "Ph.D. Program"
 information:
   - label: "Title"
     info: "Research Assistant"
@@ -21,4 +21,5 @@ weight: 4
 ​
 ​
 #### Education
-+ **B.S.** 2020 Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **M.S.** (2021) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **B.S.** (2020) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
