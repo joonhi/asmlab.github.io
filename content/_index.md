@@ -9,10 +9,53 @@ geekdocRepo:
 geekdocBreadcrumb: false
 geekdocHidden: true
 ---
-<div class="swiffy-slider slider-item-show3 slider-item-reveal slider-nav-visible">
+<html lang="ko">
+  <head>
+  <meta charset="utf-8">
+    <title>CSS</title>
+    <style>
+      body { padding: 0px; margin: 0px; }
+      .jb-box { width: 100%; height: 500px; overflow: hidden;margin: 0px auto; position: relative; }
+      video { width: 100%; }
+      .jb-text { position: absolute; top: 50%; width: 100%; }
+      .jb-text p { margin-top: -24px; text-align: center; font-size: 48px; color: #ffffff; }
+    </style>
+  </head>
+  <body>
+    <div class="jb-box">
+      <video muted autoplay loop>
+        <source src="images/Ocean.mp4" type="video/mp4">
+        <strong>Your browser does not support the video tag.</strong>
+      </video>
+      <div class="jb-text">
+        <p>air-sea modeling lab.</p>
+        <p>Yonsei Univ.</p>
+      </div>
+    </div>
+  </body>
+</html>
 
-# Recent news
+# Recent Research
+<div class="swiffy-slider slider-item-show3 slider-nav-visible slider-nav-animation slider-nav-animation-appear slider-nav-outside-expand">
+<html lang="ko">
   <ul class="slider-container py-4" id="slider2">
+    <!-- item #1 -->
+    <li>
+      <div class="card shadow h-100">
+        <div class="ratio ratio-16x9">
+          <img src="/images/tak2022.jpeg" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Tak et al. (2022)</strong>
+            <p class="card-text">"Wintertime marine extreme temperature events modulate phytoplankton blooms in the North Pacific through subtropical mode water"</p>
+          </div>
+          <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac8e8a">
+          <div class="px-md-2">in Environmental Research Letters</div>
+      </a>
+        </div>
+      </div>
+    </li>
     <!-- item #1 -->
     <li>
       <div class="card shadow h-100">
@@ -82,7 +125,7 @@ geekdocHidden: true
       </div>
     </li>
     <!-- item #5 -->
-    <li>
+    <!--li>
       <div class="card shadow h-100">
         <div class="ratio ratio-16x9">
           <img src="/images/song.jpeg" class="card-img-top" loading="lazy" alt="...">
@@ -97,7 +140,7 @@ geekdocHidden: true
           </a>
         </div>
       </div>
-    </li>
+    </li-->
 
   </ul>
 
