@@ -8,7 +8,7 @@ weight: 3
 
 ### Peer-reviewed paper
 --------------
-{{< expand "Choi, Y., Y. Noh, N. Hirose and H. Song (2022): Improvement of the Ocean Mixed Layer Model via Large Eddy Simulation and Inverse Estimation. _J. Atmos. Oceanic Technol._" >}}
+{{< expand "Choi, Y., Y. Noh, N. Hirose and H. Song (2022): Improvement of the Ocean Mixed Layer Model via Large Eddy Simulation and Inverse Estimation. _J. Atmos. Oceanic Technol._, 39(10), 1483-1498" >}}
 #### Abstract
 The ocean mixed layer model (OMLM) is improved using the large eddy simulation (LES) and the inverse estimation method. A comparison of OMLM (Noh model) and LES results reveals that underestimation of the turbulent kinetic energy (TKE) flux in the OMLM causes a negative bias of the mixed layer depth (MLD) during convection, when the wind stress is weak or the latitude is high. It is further found that the entrainment layer thickness is underestimated. The effects of alternative approaches of parameterizations in the OMLM, such as nonlocal mixing, length scales, Prandtl number, and TKE flux, are examined with an aim to reduce the bias. Simultaneous optimizations of empirical constants in the various versions of Noh model with different parameterization options are then carried out via an iterative Green’s function approach with LES data as constraining data. An improved OMLM is obtained, which reflects various new features, including the enhanced TKE flux, and the new model is found to improve the performance in all cases, namely, wind-mixing, surface heating, and surface cooling cases. The effect of the OMLM grid resolution on the optimal empirical constants is also investigated.
 {{< /expand >}}
