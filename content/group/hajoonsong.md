@@ -32,7 +32,8 @@ weight: 1
 + **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Research Experiences
-+ 2018.3 - : Assistant Professor, Department of Atmospheric Sciences, Yonsei Univ. Seoul, Korea
++ 2022.3 - : Associate Professor, Department of Atmospheric Sciences, Yonsei Univ. Seoul, Korea
++ 2018.3 - 2022.2: Assistant Professor, Department of Atmospheric Sciences, Yonsei Univ. Seoul, Korea
 + 2019.2 : Visiting Professor, MIT, Cambridge, USA
 + 2018.7 - 2018.8: Visiting Scholar, MIT, Cambridge, USA
 + 2013-2018.2: Research Scientist / Postdoctoral Associate, MIT, Cambridge, USA
